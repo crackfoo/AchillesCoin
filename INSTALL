@@ -1,0 +1,9 @@
+Building Achilles
+
+See doc/readme-qt.rst for instructions on building Achilles-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Achilles.
+
+See doc/build-*.txt for instructions on building achillesd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Achilles.
